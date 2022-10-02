@@ -294,6 +294,7 @@
   margin: -90px 0 0 0px;
   z-index: 0;
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: contain;
 }
 .footer {
   min-width: 350px;
